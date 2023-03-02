@@ -1,3 +1,7 @@
+site: parkminmull.netlify.app
+
+
+
 # WebGi starter project
 A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
 
